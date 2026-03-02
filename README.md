@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/342540/m/noir-screenshot.png?v=1663080876" alt="Noir screenshot"/>
+  <img src="https://cdn.mos.cms.futurecdn.net/fT4JTrJ4qGy2ppcuUqqasN-643-80.jpg" alt="Noir screenshot"/>
 </p>
 
 ---
